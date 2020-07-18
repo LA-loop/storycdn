@@ -1,0 +1,29 @@
+{
+    "Starbook1":
+    {
+    	"Title":"鬼吹灯之精绝古城",
+    	"Author":"天下霸唱",
+    	"Actor":"艾宝良",
+    	"Url":"GuiChuiDeng_JinJueGuCheng",
+    	"Size":48,
+    	"Image":"starbook1.png"
+    },
+    "Starbook2":
+    {
+    	"Title":"鬼吹灯之龙岭迷窟",
+    	"Author":"天下霸唱",
+    	"Actor":"艾宝良",
+    	"Url":"GuiChuiDeng_LongLingMiKu",
+    	"Size":45,
+    	"Image":"starbook2.png"
+    },
+    "Starbook3":
+    {
+		"Title":"鬼吹灯之云南虫谷",
+    	"Author":"天下霸唱",
+    	"Actor":"艾宝良",
+    	"Url":"GuiChuiDeng_YunNanChongGu",
+    	"Size":60,
+    	"Image":"starbook3.png"
+    }
+}
