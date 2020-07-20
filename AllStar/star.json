@@ -1,0 +1,36 @@
+{
+    "Size":3,
+    "Allstar1":
+    {
+    	"Title":"佛学50讲",
+    	"Author":"熊逸",
+    	"Actor":"熊逸",
+    	"Url":"XiongYi_FoXue50Jiang",
+    	"Size":50,
+    	"Image":"allstar1.png",
+        "MD5":"229C96901300DE774DC092F9D1798FDA",
+        "Type":"book"
+    },
+    "Allstar2":
+    {
+    	"Title":"人生算法",
+    	"Author":"老喻",
+    	"Actor":"老喻",
+    	"Url":"LaoYu_RenShengSuanFa",
+    	"Size":31,
+    	"Image":"allstar2.png",
+        "MD5":"FD25BE727731EAB593D90115092CA511",
+        "Type":"book"
+    },
+    "Allstar3":
+    {
+		"Title":"了不起的我",
+    	"Author":"陈海贤",
+    	"Actor":"陈海贤",
+    	"Url":"ChenHaiXian_LiaoBuQiDeWo",
+    	"Size":50,
+    	"Image":"allstar3.png",
+        "MD5":"B6D6B0C95C51D5D65CB9470BEACFE3CD",
+        "Type":"book"
+    }
+}
