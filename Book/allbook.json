@@ -1,5 +1,16 @@
 {
-    "Size":11,
+    "Size":12,
+    "Book12":
+    {
+        "Title":"北大金融学(上)",
+        "Author":"香帅",
+        "Actor":"香帅",
+        "Url":"XiangShuai_BeiDaJinRongXue_Shang",
+        "Size":89,
+        "Image":"book12.png",
+        "MD5":"A3B90A078141E23D6674815852513D01",
+        "Data":"2020-8-12"
+    },
     "Book11":
     {
         "Title":"了不起的我",
