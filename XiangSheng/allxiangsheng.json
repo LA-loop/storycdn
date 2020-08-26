@@ -1,5 +1,45 @@
 {
-    "Size":2,
+    "Size":3,
+    "XiangSheng3":
+    {
+        "Title":"刘宝瑞相声集",
+        "Author":"刘宝瑞",
+        "Actor":"刘宝瑞",
+        "Url":"XiangSheng_LiuBaoRui",
+        "Size":27,
+        "Image":"xiangsheng3.png",
+        "MD5":"29FD0E271D7D10641260D0A71AC35D3B",
+        "Data":"2020-8-26",
+        "ChildTitle":[
+            {"Title":"01 珍珠翡翠白玉汤","Author":"刘宝瑞"},
+            {"Title":"02 扎针","Author":"刘宝瑞"},
+            {"Title":"03 知县见巡抚","Author":"刘宝瑞"},
+            {"Title":"04 文庙","Author":"刘宝瑞"},
+            {"Title":"05 学徒","Author":"刘宝瑞"},
+            {"Title":"06 天王庙","Author":"刘宝瑞"},
+            {"Title":"07 要账","Author":"刘宝瑞"},
+            {"Title":"08 学乖","Author":"刘宝瑞"},
+            {"Title":"09 连升三级","Author":"刘宝瑞"},
+            {"Title":"10 书迷打砂锅","Author":"刘宝瑞"},
+            {"Title":"11 大闹县衙门","Author":"刘宝瑞"},
+            {"Title":"12 测字","Author":"刘宝瑞"},
+            {"Title":"13 打油诗","Author":"刘宝瑞"},
+            {"Title":"14 兵发云南","Author":"刘宝瑞"},
+            {"Title":"15 风雨归舟","Author":"刘宝瑞"},
+            {"Title":"16 假行家","Author":"刘宝瑞"},
+            {"Title":"17 狗噘嘴","Author":"刘宝瑞"},
+            {"Title":"18 日遭三险","Author":"刘宝瑞"},
+            {"Title":"19 找堂会","Author":"刘宝瑞,马季"},
+            {"Title":"20 翻跟头","Author":"刘宝瑞"},
+            {"Title":"21 黄半仙","Author":"刘宝瑞"},
+            {"Title":"22 化蜡扦","Author":"刘宝瑞"},
+            {"Title":"23 斗法","Author":"刘宝瑞"},
+            {"Title":"24 解学士1","Author":"刘宝瑞"},
+            {"Title":"25 解学士2","Author":"刘宝瑞"},
+            {"Title":"26 官场斗1","Author":"刘宝瑞"},
+            {"Title":"27 官场斗2","Author":"刘宝瑞"}
+        ]
+    },
     "XiangSheng2":
     {
         "Title":"侯宝林相声集",
