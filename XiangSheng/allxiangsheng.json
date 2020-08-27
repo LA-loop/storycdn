@@ -1,5 +1,30 @@
 {
-    "Size":4,
+    "Size":5,
+    "XiangSheng5":
+    {
+        "Title":"张寿臣相声集",
+        "Author":"张寿臣",
+        "Actor":"张寿臣",
+        "Url":"XiangSheng_ZhangShouChen",
+        "Size":12,
+        "Image":"xiangsheng5.png",
+        "MD5":"01D84B3D2CF3BF440868980DA00A9EE1",
+        "Data":"2020-8-27",
+        "ChildTitle":[
+            {"Title":"01 吃螃蟹","Author":"张寿臣"},
+            {"Title":"02 巧嘴媒婆","Author":"张寿臣"},
+            {"Title":"03 三进士","Author":"张寿臣"},
+            {"Title":"04 三性人","Author":"张寿臣"},
+            {"Title":"05 行话","Author":"张寿臣"},
+            {"Title":"06 贼说话","Author":"张寿臣"},
+            {"Title":"07 地理图","Author":"张寿臣"},
+            {"Title":"08 小孩儿念书","Author":"张寿臣"},
+            {"Title":"09 小神仙(上)","Author":"张寿臣"},
+            {"Title":"10 小神仙(下)","Author":"张寿臣"},
+            {"Title":"11 小淘气","Author":"张寿臣"},
+            {"Title":"12 怯剃头","Author":"张寿臣"}
+        ]
+    },
     "XiangSheng4":
     {
         "Title":"马季相声集",
