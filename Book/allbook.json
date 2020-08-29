@@ -1,5 +1,16 @@
 {
-    "Size":17,
+    "Size":18,
+    "Book18":
+    {
+        "Title":"金瓶梅的叙事",
+        "Author":"陈跃红",
+        "Actor":"陈跃红",
+        "Url":"ChenYueHong_JinPingMeiDeXuShi",
+        "Size":4,
+        "Image":"book18.png",
+        "MD5":"F0786F2F6DC3D155BBA198702D8E28D3",
+        "Data":"2020-8-30"
+    },
     "Book17":
     {
         "Title":"鲁迅与现代中国",
