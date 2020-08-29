@@ -1,5 +1,27 @@
 {
-    "Size":14,
+    "Size":16,
+    "Book16":
+    {
+        "Title":"易经的奥秘",
+        "Author":"曾仕强",
+        "Actor":"曾仕强",
+        "Url":"ZengShiQiang_YiJingDeAoMi",
+        "Size":15,
+        "Image":"book16.png",
+        "MD5":"7D13960C03ACA42004FCED1B85D6F189",
+        "Data":"2020-8-29"
+    },
+    "Book15":
+    {
+        "Title":"北大金融学(下)",
+        "Author":"香帅",
+        "Actor":"香帅",
+        "Url":"XiangShuai_BeiDaJinRongXue_Xia",
+        "Size":55,
+        "Image":"book15.png",
+        "MD5":"705643494EC3F95D065ACA81C731F80D",
+        "Data":"2020-8-29"
+    },
     "Book14":
     {
         "Title":"北大金融学(中下)",
