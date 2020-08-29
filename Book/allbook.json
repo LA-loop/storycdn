@@ -1,5 +1,16 @@
 {
-    "Size":16,
+    "Size":17,
+    "Book17":
+    {
+        "Title":"鲁迅与现代中国",
+        "Author":"孙郁",
+        "Actor":"孙郁",
+        "Url":"SunYu_LuXunYuXianDaiZhongGuo",
+        "Size":6,
+        "Image":"book17.png",
+        "MD5":"3E0B7B78993548847F174850F57FFC3A",
+        "Data":"2020-8-30"
+    },
     "Book16":
     {
         "Title":"易经的奥秘",
