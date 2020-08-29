@@ -1,5 +1,45 @@
 {
-    "Size":10,
+    "Size":11,
+    "XiangSheng11":
+    {
+        "Title":"李伯祥相声集",
+        "Author":"李伯祥",
+        "Actor":"李伯祥",
+        "Url":"XiangSheng_LiBoXiang",
+        "Size":27,
+        "Image":"xiangsheng11.png",
+        "MD5":"946B1452A14E4A741AA704A08E067AAD",
+        "Data":"2020-8-30",
+        "ChildTitle":[
+            {"Title":"01 百科全书","Author":"李伯祥"},
+            {"Title":"02 报菜名","Author":"李伯祥"},
+            {"Title":"03 财迷回家","Author":"李伯祥"},
+            {"Title":"04 醋点灯","Author":"李伯祥"},
+            {"Title":"05 灯谜","Author":"李伯祥"},
+            {"Title":"06 家庭纠纷","Author":"李伯祥"},
+            {"Title":"07 交地租","Author":"李伯祥"},
+            {"Title":"08 看红岩","Author":"李伯祥"},
+            {"Title":"09 看话剧","Author":"李伯祥"},
+            {"Title":"10 夸讲究","Author":"李伯祥"},
+            {"Title":"11 聊天","Author":"李伯祥"},
+            {"Title":"12 谦虚论","Author":"李伯祥"},
+            {"Title":"13 俏皮话","Author":"李伯祥"},
+            {"Title":"14 怯算命","Author":"李伯祥"},
+            {"Title":"15 让座","Author":"李伯祥"},
+            {"Title":"16 学外语","Author":"李伯祥"},
+            {"Title":"17 走向世界","Author":"李伯祥"},
+            {"Title":"18 百吹图","Author":"李伯祥"},
+            {"Title":"19 帮倒忙","Author":"李伯祥"},
+            {"Title":"20 变戏法","Author":"李伯祥"},
+            {"Title":"21 大戏魔","Author":"李伯祥"},
+            {"Title":"22 规矩论","Author":"李伯祥"},
+            {"Title":"23 家庭联欢","Author":"李伯祥"},
+            {"Title":"24 卖估衣","Author":"李伯祥"},
+            {"Title":"25 希瓦廖沙","Author":"李伯祥"},
+            {"Title":"26 周游世界","Author":"李伯祥"},
+            {"Title":"27 蛤蟆鼓","Author":"李伯祥"}
+        ]
+    },
     "XiangSheng10":
     {
         "Title":"赵振铎相声集",
