@@ -1,5 +1,41 @@
 {
-    "Size":7,
+    "Size":8,
+    "XiangSheng8":
+    {
+        "Title":"田立禾相声集",
+        "Author":"田立禾",
+        "Actor":"田立禾",
+        "Url":"XiangSheng_TianLiHe",
+        "Size":23,
+        "Image":"xiangsheng8.png",
+        "MD5":"60FA6F34D8A0A0262CB385F86CE5361E",
+        "Data":"2020-8-29",
+        "ChildTitle":[
+            {"Title":"01 熬香瓜","Author":"田立禾"},
+            {"Title":"02 拔牙","Author":"田立禾"},
+            {"Title":"03 百家姓","Author":"田立禾"},
+            {"Title":"04 帮厨","Author":"田立禾,刘学仁"},
+            {"Title":"05 吃烧饼","Author":"田立禾"},
+            {"Title":"06 打庸医","Author":"田立禾"},
+            {"Title":"07 窦公训女","Author":"田立禾,王文玉"},
+            {"Title":"08 托妻献子","Author":"田立禾,范振钰"},
+            {"Title":"09 家庭论","Author":"田立禾"},
+            {"Title":"10 金龟铁甲","Author":"田立禾,王文玉"},
+            {"Title":"11 哭的艺术","Author":"田立禾,刘学仁"},
+            {"Title":"12 理发","Author":"田立禾,任明启"},
+            {"Title":"13 训徒","Author":"田立禾,王文玉,刘学仁"},
+            {"Title":"14 抡弦子","Author":"田立禾,刘学仁"},
+            {"Title":"15 买桥票","Author":"田立禾"},
+            {"Title":"16 女招待","Author":"田立禾"},
+            {"Title":"17 学方言","Author":"田立禾,任明启"},
+            {"Title":"18 评关羽","Author":"田立禾,王文玉"},
+            {"Title":"19 劝架","Author":"田立禾"},
+            {"Title":"20 绕口令","Author":"田立禾,王文玉"},
+            {"Title":"21 山东话","Author":"田立禾,王文玉"},
+            {"Title":"22 我坦白","Author":"田立禾,张奎清"},
+            {"Title":"23 下象棋","Author":"田立禾"}
+        ]
+    },
     "XiangSheng7":
     {
         "Title":"高英培相声集",
