@@ -1,5 +1,41 @@
 {
-    "Size":6,
+    "Size":7,
+    "XiangSheng7":
+    {
+        "Title":"高英培相声集",
+        "Author":"高英培",
+        "Actor":"高英培",
+        "Url":"XiangSheng_GaoYingPei",
+        "Size":23,
+        "Image":"xiangsheng7.png",
+        "MD5":"D8597D32BDE7553FBF889AF305434AA2",
+        "Data":"2020-8-29",
+        "ChildTitle":[
+            {"Title":"01 别扭话","Author":"高英培"},
+            {"Title":"02 不正之风","Author":"高英培"},
+            {"Title":"03 吃侃擂台赛","Author":"高英培"},
+            {"Title":"04 宠物","Author":"高英培"},
+            {"Title":"05 钓鱼","Author":"高英培"},
+            {"Title":"06 多手","Author":"高英培"},
+            {"Title":"07 非买不可","Author":"高英培"},
+            {"Title":"08 顾客之心","Author":"高英培"},
+            {"Title":"09 好阿姨","Author":"高英培"},
+            {"Title":"10 假酒","Author":"高英培"},
+            {"Title":"11 假酒的报复","Author":"高英培"},
+            {"Title":"12 教训","Author":"高英培"},
+            {"Title":"13 进城","Author":"高英培"},
+            {"Title":"14 酒令","Author":"高英培"},
+            {"Title":"15 看告示","Author":"高英培"},
+            {"Title":"16 哭四出","Author":"高英培"},
+            {"Title":"17 老馋吃鸡","Author":"高英培"},
+            {"Title":"18 人鸟之间","Author":"高英培"},
+            {"Title":"19 送站","Author":"高英培"},
+            {"Title":"20 跳舞的风波","Author":"高英培"},
+            {"Title":"21 贴膏药","Author":"高英培"},
+            {"Title":"22 下棋","Author":"高英培"},
+            {"Title":"23 造厨","Author":"高英培"}
+        ]
+    },
     "XiangSheng6":
     {
         "Title":"马志明相声集",
