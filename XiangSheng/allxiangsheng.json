@@ -1,5 +1,31 @@
 {
-    "Size":8,
+    "Size":9,
+    "XiangSheng9":
+    {
+        "Title":"刘文亨相声集",
+        "Author":"刘文亨",
+        "Actor":"刘文亨",
+        "Url":"XiangSheng_LiuWenHeng",
+        "Size":13,
+        "Image":"xiangsheng9.png",
+        "MD5":"3BD95012700E06982E4592E42E255791",
+        "Data":"2020-8-29",
+        "ChildTitle":[
+            {"Title":"01 打金枝","Author":"刘文亨,王文玉"},
+            {"Title":"02 评书漫谈","Author":"刘文亨,王文玉"},
+            {"Title":"03 前因后果","Author":"刘文亨,王文玉"},
+            {"Title":"04 请剧团","Author":"刘文亨,王文玉"},
+            {"Title":"05 谈戏说法","Author":"刘文亨,王文玉"},
+            {"Title":"06 王宝钏","Author":"刘文亨,王文玉"},
+            {"Title":"07 王金龙与祝英台","Author":"刘文亨,王文玉"},
+            {"Title":"08 献地图","Author":"刘文亨,王文玉"},
+            {"Title":"09 学唱宝贝+评书趣谈","Author":"刘文亨,王文玉"},
+            {"Title":"10 学京剧","Author":"刘文亨,王文玉"},
+            {"Title":"11 学越剧","Author":"刘文亨,王文玉"},
+            {"Title":"12 一差二错","Author":"刘文亨,王文玉"},
+            {"Title":"13 追韩信","Author":"刘文亨,王文玉"}
+        ]
+    },
     "XiangSheng8":
     {
         "Title":"田立禾相声集",
