@@ -1,5 +1,16 @@
 {
-    "Size":18,
+    "Size":19,
+    "Book19":
+    {
+        "Title":"书院(一)",
+        "Author":"熊逸",
+        "Actor":"熊逸",
+        "Url":"XiongYi_ShuYuan",
+        "Size":70,
+        "Image":"book19.png",
+        "MD5":"207E924ECCBD4C6ACF1F077D4417E688",
+        "Data":"2020-9-03"
+    },
     "Book18":
     {
         "Title":"金瓶梅的叙事",
