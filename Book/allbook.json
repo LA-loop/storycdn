@@ -1,5 +1,16 @@
 {
-    "Size":22,
+    "Size":23,
+    "Book23":
+    {
+        "Title":"王阳明",
+        "Author":"方志远",
+        "Actor":"方志远",
+        "Url":"FangZhiYuan_WangYangMing",
+        "Size":12,
+        "Image":"book23.png",
+        "MD5":"FF7C383F36678BC86362C35E8CFD93B7",
+        "Data":"2020-9-13"
+    },
     "Book22":
     {
         "Title":"书院(四)",
