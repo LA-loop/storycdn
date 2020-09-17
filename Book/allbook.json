@@ -1,5 +1,16 @@
 {
-    "Size":23,
+    "Size":24,
+    "Book24":
+    {
+        "Title":"数学通识",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"WuJun_ShuXueTongShi",
+        "Size":59,
+        "Image":"book24.png",
+        "MD5":"68039CBF381D585F10E392AB4A171F2E",
+        "Data":"2020-9-17"
+    },
     "Book23":
     {
         "Title":"王阳明",
