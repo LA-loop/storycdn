@@ -1,5 +1,27 @@
 {
-    "Size":16,
+    "Size":18,
+    "Book18":
+    {
+        "Title":"今天(二)",
+        "Author":"郝广才",
+        "Actor":"郝广才",
+        "Url":"HaoGuangCai_JinTian_Er",
+        "Size":90,
+        "Image":"book18.png",
+        "MD5":"5121819941815988535B3A1F1645E96E",
+        "Data":"2020-9-22"
+    },
+    "Book17":
+    {
+        "Title":"今天(一)",
+        "Author":"郝广才",
+        "Actor":"郝广才",
+        "Url":"HaoGuangCai_JinTian_Yi",
+        "Size":88,
+        "Image":"book17.png",
+        "MD5":"0977855F694CAF601F65B2A8BC86653D",
+        "Data":"2020-9-22"
+    },
     "Book16":
     {
         "Title":"数学通识",
