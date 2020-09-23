@@ -1,5 +1,16 @@
 {
-    "Size":18,
+    "Size":19,
+    "XueXi19":
+    {
+        "Title":"今天(三)",
+        "Author":"郝广才",
+        "Actor":"郝广才",
+        "Url":"HaoGuangCai_JinTian_San",
+        "Size":73,
+        "Image":"xuexi19.png",
+        "MD5":"C87DB03509594BD31B1D9A36FAA467B0",
+        "Data":"2020-9-23"
+    },
     "XueXi18":
     {
         "Title":"今天(二)",
