@@ -1,5 +1,49 @@
 {
-    "Size":20,
+    "Size":24,
+    "XueXi24":
+    {
+        "Title":"说聊斋",
+        "Author":"贾行家",
+        "Actor":"贾行家",
+        "Url":"JiaHangJia_ShuoLiaoZha",
+        "Size":16,
+        "Image":"xuexi24.png",
+        "MD5":"82F2EB5AF35165CEBD0C09A33173D2DA",
+        "Data":"2020-9-27"
+    },
+    "XueXi23":
+    {
+        "Title":"组织行为学",
+        "Author":"李育辉",
+        "Actor":"李育辉",
+        "Url":"LiYuHui_ZuZhiXingWeiXue",
+        "Size":28,
+        "Image":"xuexi23.png",
+        "MD5":"32262B67187EA3E1738F9FE45611CBA9",
+        "Data":"2020-9-27"
+    },
+    "XueXi22":
+    {
+        "Title":"增长思维",
+        "Author":"梁宁",
+        "Actor":"梁宁",
+        "Url":"LiangNing_ZengZhangSiWei",
+        "Size":31,
+        "Image":"xuexi22.png",
+        "MD5":"6286B6F9119E82901B5D06D305B37EE4",
+        "Data":"2020-9-27"
+    },
+    "XueXi21":
+    {
+        "Title":"今天(五)",
+        "Author":"郝广才",
+        "Actor":"郝广才",
+        "Url":"HaoGuangCai_JinTian_Wu",
+        "Size":60,
+        "Image":"xuexi21.png",
+        "MD5":"30301451E05BEF04637A61FFFE2C043B",
+        "Data":"2020-9-27"
+    },
     "XueXi20":
     {
         "Title":"今天(四)",
