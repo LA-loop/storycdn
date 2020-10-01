@@ -1,9 +1,16 @@
 {
-    "Size":1,
+    "Size":2,
     "Top":
     {
         "Title":"这里是听说APP，欢迎你的到来",
         "Url":"Top_2020_08_01.m4a"
+    },
+    "Voice2":
+    {
+        "Title":"听说Web版本",
+        "Author":"阿美",
+        "Url":"Amei_2020_10_01.m4a",
+        "Data":"2020-10-1"
     },
     "Voice1":
     {
