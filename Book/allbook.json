@@ -1,5 +1,38 @@
 {
-    "Size":25,
+    "Size":28,
+    "Book28":
+    {
+        "Title":"封神演义(下)",
+        "Author":"陆西星",
+        "Actor":"李庆丰",
+        "Url":"LuXiXing_FengShenYanYi_3",
+        "Size":41,
+        "Image":"book28.png",
+        "MD5":"871F4844531968BA49E4F22604F8DADA",
+        "Data":"2020-10-2"
+    },
+    "Book27":
+    {
+        "Title":"封神演义(中)",
+        "Author":"陆西星",
+        "Actor":"李庆丰",
+        "Url":"LuXiXing_FengShenYanYi_2",
+        "Size":90,
+        "Image":"book27.png",
+        "MD5":"F1C28061C3F73F20CCD963829140044C",
+        "Data":"2020-10-2"
+    },
+    "Book26":
+    {
+        "Title":"封神演义(上)",
+        "Author":"陆西星",
+        "Actor":"李庆丰",
+        "Url":"LuXiXing_FengShenYanYi_1",
+        "Size":90,
+        "Image":"book26.png",
+        "MD5":"426C0ADC12D2FDFFA7AD5E76635F421B",
+        "Data":"2020-10-2"
+    },
     "Book25":
     {
         "Title":"聊斋志异(8)",
