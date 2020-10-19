@@ -1,5 +1,27 @@
 {
-    "Size":24,
+    "Size":26,
+    "XueXi26":
+    {
+        "Title":"天文学通识",
+        "Author":"高爽",
+        "Actor":"高爽",
+        "Url":"GaoShuang_TianWenXueTongShi",
+        "Size":36,
+        "Image":"xuexi26.png",
+        "MD5":"DB713E85313FD2888ACA49C1CDEF9C47",
+        "Data":"2020-10-19"
+    },
+    "XueXi25":
+    {
+        "Title":"法律思维",
+        "Author":"刘晗",
+        "Actor":"刘晗",
+        "Url":"LiuHan_FaLvSiWei",
+        "Size":32,
+        "Image":"xuexi25.png",
+        "MD5":"62F097361CB634C1ED76883D5CBBBBC0",
+        "Data":"2020-10-19"
+    },
     "XueXi24":
     {
         "Title":"说聊斋",
