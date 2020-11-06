@@ -99,12 +99,12 @@
         "MD5":"FB8756899F6B0F2973E2AB40F3C23A26",
         "Data":"2020-10-20"
     },
-    "XueXi26":
+    "XueXi16":
     {
         "Title":"天文学通识",
         "Author":"高爽",
         "Actor":"高爽",
-        "Url":"GaoShuang_TianWenXueTongShi",
+        "Url":"XueXiFloder/GaoShuang_TianWenXueTongShi",
         "Size":36,
         "Image":"xuexi26.png",
         "MD5":"DB713E85313FD2888ACA49C1CDEF9C47",
