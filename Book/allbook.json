@@ -209,35 +209,13 @@
         "MD5":"35C06B28927B02181FB83D6FD4E2F4AC",
         "Data":"2020-10-10"
     },
-    "Book31":
-    {
-        "Title":"三国演义(下)",
-        "Author":"罗贯中",
-        "Actor":"李庆丰",
-        "Url":"LuoGuanZhong_SanGuoYanYi_3",
-        "Size":95,
-        "Image":"book31.png",
-        "MD5":"3BF8C2FE8CBC35B67F0E6409A705AAC2",
-        "Data":"2020-10-3"
-    },
-    "Book30":
-    {
-        "Title":"三国演义(中)",
-        "Author":"罗贯中",
-        "Actor":"李庆丰",
-        "Url":"LuoGuanZhong_SanGuoYanYi_2",
-        "Size":90,
-        "Image":"book30.png",
-        "MD5":"130F3625487106444236FCA634BAFFA3",
-        "Data":"2020-10-3"
-    },
     "Book20":
     {
         "Title":"三国演义",
         "Author":"罗贯中",
         "Actor":"李庆丰",
         "Url":"BookFloder/LuoGuanZhong_SanGuoYanYi_1",
-        "Size":90,
+        "Size":275,
         "Image":"book29.png",
         "MD5":"EFC49957DB9B31CAA9812259C3D63160",
         "Data":"2020-10-3"
