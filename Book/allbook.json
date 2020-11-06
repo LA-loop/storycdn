@@ -121,24 +121,13 @@
         "MD5":"18FF299BABE683160F02FCFFFB52CDB6",
         "Data":"2020-10-10"
     },
-    "Book39":
-    {
-        "Title":"西游记(下)",
-        "Author":"吴承恩",
-        "Actor":"李庆丰",
-        "Url":"WuChengEn_XiYouJi_Xia",
-        "Size":92,
-        "Image":"book39.png",
-        "MD5":"FD7F7F7F058BA6D2849441E6458E7A25",
-        "Data":"2020-10-10"
-    },
     "Book24":
     {
         "Title":"西游记",
         "Author":"吴承恩",
         "Actor":"李庆丰",
         "Url":"BookFloder/WuChengEn_XiYouJi_Shang",
-        "Size":90,
+        "Size":182,
         "Image":"book38.png",
         "MD5":"3606B27B817E067AC25BBE651F97A11A",
         "Data":"2020-10-10"
