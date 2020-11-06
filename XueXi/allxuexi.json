@@ -154,57 +154,13 @@
         "MD5":"6286B6F9119E82901B5D06D305B37EE4",
         "Data":"2020-9-27"
     },
-    "XueXi21":
-    {
-        "Title":"今天(五)",
-        "Author":"郝广才",
-        "Actor":"郝广才",
-        "Url":"HaoGuangCai_JinTian_Wu",
-        "Size":60,
-        "Image":"xuexi21.png",
-        "MD5":"30301451E05BEF04637A61FFFE2C043B",
-        "Data":"2020-9-27"
-    },
-    "XueXi20":
-    {
-        "Title":"今天(四)",
-        "Author":"郝广才",
-        "Actor":"郝广才",
-        "Url":"HaoGuangCai_JinTian_Si",
-        "Size":60,
-        "Image":"xuexi20.png",
-        "MD5":"EB203AC772B027E4BAC5D58B23040A8F",
-        "Data":"2020-9-25"
-    },
-    "XueXi19":
-    {
-        "Title":"今天(三)",
-        "Author":"郝广才",
-        "Actor":"郝广才",
-        "Url":"HaoGuangCai_JinTian_San",
-        "Size":73,
-        "Image":"xuexi19.png",
-        "MD5":"C87DB03509594BD31B1D9A36FAA467B0",
-        "Data":"2020-9-23"
-    },
-    "XueXi18":
-    {
-        "Title":"今天(二)",
-        "Author":"郝广才",
-        "Actor":"郝广才",
-        "Url":"HaoGuangCai_JinTian_Er",
-        "Size":90,
-        "Image":"xuexi18.png",
-        "MD5":"5121819941815988535B3A1F1645E96E",
-        "Data":"2020-9-22"
-    },
     "XueXi11":
     {
         "Title":"今天",
         "Author":"郝广才",
         "Actor":"郝广才",
         "Url":"XueXiFloder/HaoGuangCai_JinTian_Yi",
-        "Size":88,
+        "Size":371,
         "Image":"xuexi17.png",
         "MD5":"0977855F694CAF601F65B2A8BC86653D",
         "Data":"2020-9-22"
