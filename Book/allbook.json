@@ -77,12 +77,12 @@
         "MD5":"B5B5BFDAC47E9550784C2BE67CA92D66",
         "Data":"2020-10-31"
     },
-    "Book43":
+    "Book26":
     {
-        "Title":"相宝(1)",
+        "Title":"相宝",
         "Author":"炎宗",
         "Actor":"刘大明白",
-        "Url":"YanZong_XiangBao_1",
+        "Url":"BookFloder/YanZong_XiangBao_1",
         "Size":90,
         "Image":"book43.png",
         "MD5":"747E2DBB8771314E52C9A78A121A053B",
