@@ -220,12 +220,12 @@
         "MD5":"68039CBF381D585F10E392AB4A171F2E",
         "Data":"2020-9-17"
     },
-    "XueXi15":
+    "XueXi9":
     {
         "Title":"王阳明",
         "Author":"方志远",
         "Actor":"方志远",
-        "Url":"FangZhiYuan_WangYangMing",
+        "Url":"XueXiFloder/FangZhiYuan_WangYangMing",
         "Size":12,
         "Image":"xuexi15.png",
         "MD5":"FF7C383F36678BC86362C35E8CFD93B7",
