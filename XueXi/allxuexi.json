@@ -231,46 +231,13 @@
         "MD5":"FF7C383F36678BC86362C35E8CFD93B7",
         "Data":"2020-9-13"
     },
-    "XueXi14":
-    {
-        "Title":"书院(四)",
-        "Author":"熊逸",
-        "Actor":"熊逸",
-        "Url":"XiongYi_ShuYuan_Si",
-        "Size":80,
-        "Image":"xuexi14.png",
-        "MD5":"ED718560DEFD5550D232ED1EDF6C1CC0",
-        "Data":"2020-9-13"
-    },
-    "XueXi13":
-    {
-        "Title":"书院(三)",
-        "Author":"熊逸",
-        "Actor":"熊逸",
-        "Url":"XiongYi_ShuYuan_San",
-        "Size":74,
-        "Image":"xuexi13.png",
-        "MD5":"72410CD839220ADD5F39503C38CB7399",
-        "Data":"2020-9-08"
-    },
-    "XueXi12":
-    {
-        "Title":"书院(二)",
-        "Author":"熊逸",
-        "Actor":"熊逸",
-        "Url":"XiongYi_ShuYuan_Er",
-        "Size":81,
-        "Image":"xuexi12.png",
-        "MD5":"F785CE55614EFDAAD3AB1923C88A9355",
-        "Data":"2020-9-04"
-    },
     "XueXi8":
     {
         "Title":"书院",
         "Author":"熊逸",
         "Actor":"熊逸",
         "Url":"XueXiFloder/XiongYi_ShuYuan",
-        "Size":70,
+        "Size":305,
         "Image":"xuexi11.png",
         "MD5":"207E924ECCBD4C6ACF1F077D4417E688",
         "Data":"2020-9-03"
