@@ -308,46 +308,13 @@
         "MD5":"7D13960C03ACA42004FCED1B85D6F189",
         "Data":"2020-8-29"
     },
-    "XueXi7":
-    {
-        "Title":"北大金融学(下)",
-        "Author":"香帅",
-        "Actor":"香帅",
-        "Url":"XiangShuai_BeiDaJinRongXue_Xia",
-        "Size":55,
-        "Image":"xuexi7.png",
-        "MD5":"705643494EC3F95D065ACA81C731F80D",
-        "Data":"2020-8-29"
-    },
-    "XueXi6":
-    {
-        "Title":"北大金融学(中下)",
-        "Author":"香帅",
-        "Actor":"香帅",
-        "Url":"XiangShuai_BeiDaJinRongXue_ZhongXia",
-        "Size":97,
-        "Image":"xuexi6.png",
-        "MD5":"81A4E8EFEB97756038F3610DBE8D19A4",
-        "Data":"2020-8-26"
-    },
-    "XueXi5":
-    {
-        "Title":"北大金融学(中上)",
-        "Author":"香帅",
-        "Actor":"香帅",
-        "Url":"XiangShuai_BeiDaJinRongXue_ZhongShang",
-        "Size":77,
-        "Image":"xuexi5.png",
-        "MD5":"F103599EA2A41BB8F2B9F4F44F6C64A4",
-        "Data":"2020-8-19"
-    },
     "XueXi4":
     {
-        "Title":"北大金融学(上)",
+        "Title":"北大金融学",
         "Author":"香帅",
         "Actor":"香帅",
         "Url":"XueXiFloder/XiangShuai_BeiDaJinRongXue_Shang",
-        "Size":89,
+        "Size":318,
         "Image":"xuexi4.png",
         "MD5":"A3B90A078141E23D6674815852513D01",
         "Data":"2020-8-12"
