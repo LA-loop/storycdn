@@ -132,12 +132,12 @@
         "MD5":"FD7F7F7F058BA6D2849441E6458E7A25",
         "Data":"2020-10-10"
     },
-    "Book38":
+    "Book24":
     {
-        "Title":"西游记(上)",
+        "Title":"西游记",
         "Author":"吴承恩",
         "Actor":"李庆丰",
-        "Url":"WuChengEn_XiYouJi_Shang",
+        "Url":"BookFloder/WuChengEn_XiYouJi_Shang",
         "Size":90,
         "Image":"book38.png",
         "MD5":"3606B27B817E067AC25BBE651F97A11A",
