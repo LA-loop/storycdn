@@ -264,12 +264,12 @@
         "MD5":"F1C28061C3F73F20CCD963829140044C",
         "Data":"2020-10-2"
     },
-    "Book26":
+    "Book19":
     {
-        "Title":"封神演义(上)",
+        "Title":"封神演义",
         "Author":"陆西星",
         "Actor":"李庆丰",
-        "Url":"LuXiXing_FengShenYanYi_1",
+        "Url":"BookFloder/LuXiXing_FengShenYanYi_1",
         "Size":90,
         "Image":"book26.png",
         "MD5":"426C0ADC12D2FDFFA7AD5E76635F421B",
@@ -277,7 +277,7 @@
     },
     "Book18":
     {
-        "Title":"聊斋志异(1)",
+        "Title":"聊斋志异",
         "Author":"蒲松龄",
         "Actor":"李庆丰",
         "Url":"BookFloder/PuSongLing_LiaoZhaiZhiYi_1",
