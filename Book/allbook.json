@@ -198,12 +198,12 @@
         "MD5":"259700A904755ACA4B968562ABECBA26",
         "Data":"2020-10-10"
     },
-    "Book32":
+    "Book21":
     {
-        "Title":"水浒传(上)",
+        "Title":"水浒传",
         "Author":"施耐庵",
         "Actor":"李庆丰",
-        "Url":"ShiNaiAn_ShuiHuZhuan_1",
+        "Url":"BookFloder/ShiNaiAn_ShuiHuZhuan_1",
         "Size":90,
         "Image":"book32.png",
         "MD5":"35C06B28927B02181FB83D6FD4E2F4AC",
