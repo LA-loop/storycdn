@@ -209,12 +209,12 @@
         "MD5":"0977855F694CAF601F65B2A8BC86653D",
         "Data":"2020-9-22"
     },
-    "XueXi16":
+    "XueXi10":
     {
         "Title":"数学通识",
         "Author":"吴军",
         "Actor":"吴军",
-        "Url":"WuJun_ShuXueTongShi",
+        "Url":"XueXiFloder/WuJun_ShuXueTongShi",
         "Size":59,
         "Image":"xuexi16.png",
         "MD5":"68039CBF381D585F10E392AB4A171F2E",
