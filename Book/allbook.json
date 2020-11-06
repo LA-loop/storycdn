@@ -154,12 +154,12 @@
         "MD5":"D06F492FA13030FEE0190F7CCFFDA6C4",
         "Data":"2020-10-10"
     },
-    "Book36":
+    "Book23":
     {
-        "Title":"金瓶梅(上)",
+        "Title":"金瓶梅",
         "Author":"兰陵笑笑生",
         "Actor":"李庆丰",
-        "Url":"LanLingXiaoXiaoSheng_JinPingMei_Shang",
+        "Url":"BookFloder/LanLingXiaoXiaoSheng_JinPingMei_Shang",
         "Size":50,
         "Image":"book36.png",
         "MD5":"92802E617179927AB51D626BB7B3BD99",
