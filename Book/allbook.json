@@ -1,5 +1,16 @@
 {
-    "Size":26,
+    "Size":27,
+    "Book27":
+    {
+        "Title":"星辰变",
+        "Author":"我吃西红柿",
+        "Actor":"喜道公子",
+        "Url":"BookFloder/WoChiXiHongShi_XingChenBian",
+        "Size":526,
+        "Image":"book27.png",
+        "MD5":"01430D8EA0DBB7ABAA320565F7E77756",
+        "Data":"2020-11-10"
+    },
     "Book26":
     {
         "Title":"相宝",
