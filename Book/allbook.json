@@ -1,5 +1,16 @@
 {
-    "Size":28,
+    "Size":29,
+    "Book29":
+    {
+        "Title":"曹操大传",
+        "Author":"子金山",
+        "Actor":"纪涵邦",
+        "Url":"BookFloder/JiHanBang_CaoCaoDaZhuan",
+        "Size":46,
+        "Image":"book29.png",
+        "MD5":"E555FFA0E4706AF59202F3ACEAD99C29",
+        "Data":"2020-11-25"
+    },
     "Book28":
     {
         "Title":"济公全传",
