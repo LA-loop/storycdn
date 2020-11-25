@@ -1,5 +1,16 @@
 {
-    "Size":27,
+    "Size":28,
+    "Book28":
+    {
+        "Title":"济公全传",
+        "Author":"郭小亭",
+        "Actor":"魏迅化",
+        "Url":"BookFloder/WeiXunHua_JiGongQuanZhuan",
+        "Size":240,
+        "Image":"book28.png",
+        "MD5":"BA907CBA3E3A55C450383E9564333927",
+        "Data":"2020-11-25"
+    },
     "Book27":
     {
         "Title":"星辰变",
