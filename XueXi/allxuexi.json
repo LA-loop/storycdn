@@ -1,5 +1,16 @@
 {
-    "Size":23,
+    "Size":24,
+    "XueXi24":
+    {
+        "Title":"自我的诞生",
+        "Author":"武志红",
+        "Actor":"武志红",
+        "Url":"XueXiFloder/WuZhiHong_ZiWoDeDanSheng",
+        "Size":58,
+        "Image":"xuexi24.png",
+        "MD5":"60A969124F19066D66401B4F420FF9CF",
+        "Data":"2020-12-7"
+    },
     "XueXi23":
     {
         "Title":"讲透红楼梦",
