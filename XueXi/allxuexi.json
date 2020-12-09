@@ -1,5 +1,16 @@
 {
-    "Size":24,
+    "Size":25,
+    "XueXi25":
+    {
+        "Title":"唐诗50讲",
+        "Author":"熊逸",
+        "Actor":"熊逸",
+        "Url":"XueXiFloder/XiongYi_TangShi50Jiang",
+        "Size":54,
+        "Image":"xuexi25.png",
+        "MD5":"F48AB848C618ACCEC3552F187251B7CB",
+        "Data":"2020-12-9"
+    },
     "XueXi24":
     {
         "Title":"自我的诞生",
