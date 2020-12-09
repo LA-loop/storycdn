@@ -1,5 +1,16 @@
 {
-    "Size":25,
+    "Size":26,
+    "XueXi26":
+    {
+        "Title":"中国制造报告20讲",
+        "Author":"施展",
+        "Actor":"施展",
+        "Url":"XueXiFloder/ShiZhan_ZhongGuoZhiZaoBaoGao",
+        "Size":22,
+        "Image":"xuexi26.png",
+        "MD5":"92E9A6287094D7E92A4C7306A8D98F4F",
+        "Data":"2020-12-9"
+    },
     "XueXi25":
     {
         "Title":"唐诗50讲",
