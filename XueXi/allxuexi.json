@@ -1,5 +1,16 @@
 {
-    "Size":26,
+    "Size":27,
+    "XueXi27":
+    {
+        "Title":"说苏轼",
+        "Author":"熊逸",
+        "Actor":"熊逸",
+        "Url":"XueXiFloder/XiongYi_ShuoSuShi",
+        "Size":34,
+        "Image":"xuexi27.png",
+        "MD5":"6F2F14C1B11DF7DD2C8562F2718C4FBB",
+        "Data":"2020-12-10"
+    },
     "XueXi26":
     {
         "Title":"中国制造报告20讲",
