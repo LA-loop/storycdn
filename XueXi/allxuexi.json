@@ -1,5 +1,16 @@
 {
-    "Size":27,
+    "Size":28,
+    "XueXi28":
+    {
+        "Title":"心理学基础30讲",
+        "Author":"刘嘉",
+        "Actor":"刘嘉",
+        "Url":"XueXiFloder/LiuJia_XinLiXueJiChu30Jiang",
+        "Size":35,
+        "Image":"xuexi28.png",
+        "MD5":"479E342C728C6E02FE4D7E9873CA20D2",
+        "Data":"2020-12-10"
+    },
     "XueXi27":
     {
         "Title":"说苏轼",
