@@ -1,5 +1,16 @@
 {
-    "Size":29,
+    "Size":30,
+    "XueXi30":
+    {
+        "Title":"30天认知训练营(第1季)",
+        "Author":"王烁",
+        "Actor":"王烁",
+        "Url":"XueXiFloder/WangShuo_30TianRenZhiXunLianYing_1",
+        "Size":31,
+        "Image":"xuexi30.png",
+        "MD5":"2802A6BD2F75B70067819341FC061F5E",
+        "Data":"2020-12-13"
+    },
     "XueXi29":
     {
         "Title":"中国史纲50讲",
