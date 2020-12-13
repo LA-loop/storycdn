@@ -1,5 +1,16 @@
 {
-    "Size":28,
+    "Size":29,
+    "XueXi29":
+    {
+        "Title":"中国史纲50讲",
+        "Author":"施展",
+        "Actor":"施展",
+        "Url":"XueXiFloder/ShiZhan_ZhongGuoShiGang50Jiang",
+        "Size":68,
+        "Image":"xuexi29.png",
+        "MD5":"6C1CA8F948F5A544639D01012272BF73",
+        "Data":"2020-12-13"
+    },
     "XueXi28":
     {
         "Title":"心理学基础30讲",
