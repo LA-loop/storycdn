@@ -1,5 +1,16 @@
 {
-    "Size":30,
+    "Size":31,
+    "XueXi31":
+    {
+        "Title":"产品思维",
+        "Author":"梁宁",
+        "Actor":"梁宁",
+        "Url":"XueXiFloder/LiangNing_ChanPinSiWei",
+        "Size":30,
+        "Image":"xuexi31.png",
+        "MD5":"E0467E7DB954232E06F6011133F31819",
+        "Data":"2020-12-14"
+    },
     "XueXi30":
     {
         "Title":"30天认知训练营(第1季)",
