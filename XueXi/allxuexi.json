@@ -1,5 +1,16 @@
 {
-    "Size":31,
+    "Size":32,
+    "XueXi32":
+    {
+        "Title":"社会学专题50讲",
+        "Author":"郑也夫",
+        "Actor":"郑也夫",
+        "Url":"XueXiFloder/ZhengYeFu_SheHuiXueZhuanTi50Jiang",
+        "Size":52,
+        "Image":"xuexi32.png",
+        "MD5":"92658DC09C5C8847EAE3F4700C633D16",
+        "Data":"2020-12-15"
+    },
     "XueXi31":
     {
         "Title":"产品思维",
