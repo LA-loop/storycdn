@@ -1,5 +1,16 @@
 {
-    "Size":32,
+    "Size":33,
+    "XueXi33":
+    {
+        "Title":"生命科学50讲",
+        "Author":"王立铭",
+        "Actor":"王立铭",
+        "Url":"XueXiFloder/WangLiMing_ShengMingKeXue50Jiang",
+        "Size":51,
+        "Image":"xuexi33.png",
+        "MD5":"EC8D74EEFB45F18FD3047E8D89063289",
+        "Data":"2020-12-16"
+    },
     "XueXi32":
     {
         "Title":"社会学专题50讲",
