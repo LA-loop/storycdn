@@ -1,5 +1,16 @@
 {
-    "Size":33,
+    "Size":34,
+    "XueXi34":
+    {
+        "Title":"讲透孙子兵法",
+        "Author":"华杉",
+        "Actor":"华杉",
+        "Url":"XueXiFloder/HuaShan_JiangTouSunZiBingFa",
+        "Size":30,
+        "Image":"xuexi34.png",
+        "MD5":"D7C91157ABFBF9DAD3414676BBDB7557",
+        "Data":"2020-12-16"
+    },
     "XueXi33":
     {
         "Title":"生命科学50讲",
