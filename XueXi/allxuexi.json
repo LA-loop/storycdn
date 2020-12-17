@@ -1,5 +1,16 @@
 {
-    "Size":34,
+    "Size":35,
+    "XueXi35":
+    {
+        "Title":"北大领导力",
+        "Author":"刘澜",
+        "Actor":"刘澜",
+        "Url":"XueXiFloder/LiuLan_BeiDaLingDaoLi",
+        "Size":32,
+        "Image":"xuexi35.png",
+        "MD5":"1C5AD402600BE3FF9DD72C1BC2481DE9",
+        "Data":"2020-12-17"
+    },
     "XueXi34":
     {
         "Title":"讲透孙子兵法",
