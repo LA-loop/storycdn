@@ -1,5 +1,16 @@
 {
-    "Size":35,
+    "Size":36,
+    "XueXi36":
+    {
+        "Title":"西方史纲50讲",
+        "Author":"李筠",
+        "Actor":"李筠",
+        "Url":"XueXiFloder/LiYun_XiFangShiGang50Jiang",
+        "Size":53,
+        "Image":"xuexi36.png",
+        "MD5":"D31CAC088C4085A42D52486DD9C58AAF",
+        "Data":"2020-12-18"
+    },
     "XueXi35":
     {
         "Title":"北大领导力",
