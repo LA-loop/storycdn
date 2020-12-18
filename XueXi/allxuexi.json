@@ -1,5 +1,16 @@
 {
-    "Size":36,
+    "Size":37,
+    "XueXi37":
+    {
+        "Title":"创意思维课",
+        "Author":"郝广才",
+        "Actor":"郝广才",
+        "Url":"XueXiFloder/HaoGuangCai_ChuangYiSiWeiKe",
+        "Size":26,
+        "Image":"xuexi37.png",
+        "MD5":"EDAAEB01D5E5511547160FBB82849FBD",
+        "Data":"2020-12-18"
+    },
     "XueXi36":
     {
         "Title":"西方史纲50讲",
