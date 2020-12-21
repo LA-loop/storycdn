@@ -1,5 +1,16 @@
 {
-    "Size":39,
+    "Size":40,
+    "XueXi40":
+    {
+        "Title":"财务思维课",
+        "Author":"贾宁",
+        "Actor":"贾宁",
+        "Url":"XueXiFloder/JiaNing_CaiWuSiWeiKe",
+        "Size":35,
+        "Image":"xuexi40.png",
+        "MD5":"020FFBD3383DD28A028EE5BC67880DE4",
+        "Data":"2020-12-21"
+    },
     "XueXi39":
     {
         "Title":"大国简史·英国篇",
