@@ -1,5 +1,16 @@
 {
-    "Size":40,
+    "Size":41,
+    "XueXi41":
+    {
+        "Title":"行为金融学",
+        "Author":"陆蓉",
+        "Actor":"陆蓉",
+        "Url":"XueXiFloder/LuRong_XingWeiJinRongXue",
+        "Size":31,
+        "Image":"xuexi41.png",
+        "MD5":"B590FE66EFAB4EF958C1898157DF82FB",
+        "Data":"2020-12-22"
+    },
     "XueXi40":
     {
         "Title":"财务思维课",
