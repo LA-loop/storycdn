@@ -1,5 +1,16 @@
 {
-    "Size":41,
+    "Size":42,
+    "XueXi42":
+    {
+        "Title":"密码学课",
+        "Author":"卓克",
+        "Actor":"卓克",
+        "Url":"XueXiFloder/ZhuoKe_MiMaXueKe",
+        "Size":31,
+        "Image":"xuexi42.png",
+        "MD5":"D11D7E2882E7E41EF236FE4AA4135849",
+        "Data":"2020-12-22"
+    },
     "XueXi41":
     {
         "Title":"行为金融学",
