@@ -1,5 +1,16 @@
 {
-    "Size":43,
+    "Size":44,
+    "XueXi44":
+    {
+        "Title":"科技史纲",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"XueXiFloder/WuJun_KeJiShiGang",
+        "Size":63,
+        "Image":"xuexi44.png",
+        "MD5":"2A366F7C2BF377DB3859BE4A0820C409",
+        "Data":"2020-12-24"
+    },
     "XueXi43":
     {
         "Title":"何帆报告2018",
